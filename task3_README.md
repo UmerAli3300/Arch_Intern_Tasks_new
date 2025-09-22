@@ -1,4 +1,4 @@
-##  README for `archnewtask3.pdf` — Customer Segmentation
+##  README for Customer Segmentation
 
 **Title**: Customer Segmentation using RFM Analysis and K-Means Clustering
 
